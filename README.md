@@ -1,10 +1,11 @@
+<<<<<<< HEAD
 # HackerRank-3rdSem-Portfolio
 
-**Riya | [YOUR ROLL NUMBER]** — 3rd Semester B.Tech CSE, REVA University
+**Rouhin Ghosh| [R25EJ124]** — 3rd Semester B.Tech CSIT, REVA University
 Portfolio Building (B25CS0311) — Activity 8: HackerRank Algorithmic Problem-Solving
 
 ## HackerRank Profile
-[https://www.hackerrank.com/profile/YOUR_USERNAME](https://www.hackerrank.com/profile/YOUR_USERNAME)
+[https://www.hackerrank.com/profile/ugcdk2500165](https://www.hackerrank.com/profile/YOUR_USERNAME)
 
 ## Problems & Complexity
 
@@ -30,3 +31,6 @@ Each solution file contains the HackerRank function plus a local `main()` with t
 
 ## Badges
 ![HackerRank badges](./screenshots/badges.png)
+=======
+# hackerrank-solutions
+>>>>>>> 4a0199254240caaaf9e7025710f730125207e608
